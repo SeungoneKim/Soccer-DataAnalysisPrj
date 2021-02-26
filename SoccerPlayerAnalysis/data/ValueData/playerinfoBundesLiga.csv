@@ -1,0 +1,215 @@
+,name,position,age,value,changed,nat,club
+0,Ron-ThorbenHoffmann,Goalkeeper,21,€400Th.,11.11.2020,Germany,Bayern Munich
+1,SebastiaanBornauw,Centre-Back,21,€13.00m,16.09.2020,Belgium,1. FC Köln
+2,SergeGnabry,RightWinger,25,€90.00m,16.09.2020,Germany,Bayern Munich
+3,JoshuaKimmich,DefensiveMidfield,25,€85.00m,16.09.2020,Germany,Bayern Munich
+4,AlphonsoDavies,Left-Back,20,€80.00m,16.09.2020,Canada,Bayern Munich
+5,ErlingHaaland,Centre-Forward,20,€80.00m,16.09.2020,Norway,Borussia Dortmund
+6,LeroySané,LeftWinger,24,€70.00m,16.09.2020,Germany,Bayern Munich
+7,RobertLewandowski,Centre-Forward,32,€60.00m,16.09.2020,Poland,Bayern Munich
+8,DayotUpamecano,Centre-Back,22,€60.00m,16.09.2020,France,RB Leipzig
+9,LeonGoretzka,CentralMidfield,25,€60.00m,16.09.2020,Germany,Bayern Munich
+10,BenjaminPavard,Right-Back,24,€45.00m,16.09.2020,France,Bayern Munich
+11,LucasHernández,Left-Back,24,€45.00m,16.09.2020,France,Bayern Munich
+12,LukasKlostermann,Centre-Back,24,€38.00m,16.09.2020,Germany,RB Leipzig
+13,ThomasMüller,SecondStriker,31,€35.00m,16.09.2020,Germany,Bayern Munich
+14,MatthiasGinter,Centre-Back,26,€32.00m,16.09.2020,Germany,Borussia Mönchengladbach
+15,NicoElvedi,Centre-Back,24,€30.00m,16.09.2020,Switzerland,Borussia Mönchengladbach
+16,KonradLaimer,CentralMidfield,23,€30.00m,16.09.2020,Austria,RB Leipzig
+17,AndrejKramaric,Centre-Forward,29,€27.00m,16.09.2020,Croatia,TSG 1899 Hoffenheim
+18,JudeBellingham,CentralMidfield,17,€27.00m,16.09.2020,England,Borussia Dortmund
+19,EmreCan,DefensiveMidfield,26,€26.00m,16.09.2020,Germany,Borussia Dortmund
+20,YussufPoulsen,Centre-Forward,26,€25.00m,16.09.2020,Denmark,RB Leipzig
+21,NordiMukiele,Right-Back,23,€23.00m,16.09.2020,France,RB Leipzig
+22,LucasTousart,DefensiveMidfield,23,€20.00m,16.09.2020,France,Hertha BSC
+23,MatsHummels,Centre-Back,31,€20.00m,16.09.2020,Germany,Borussia Dortmund
+24,AmineHarit,AttackingMidfield,23,€20.00m,16.09.2020,Morocco,FC Schalke 04
+25,MartinHinteregger,Centre-Back,28,€18.00m,16.09.2020,Austria,Eintracht Frankfurt
+26,ManuelNeuer,Goalkeeper,34,€18.00m,16.09.2020,Germany,Bayern Munich
+27,AxelWitsel,DefensiveMidfield,31,€17.00m,16.09.2020,Belgium,Borussia Dortmund
+28,EmilForsberg,LeftWinger,29,€18.00m,16.09.2020,Sweden,RB Leipzig
+29,Jean-PhilippeMateta,Centre-Forward,23,€15.00m,16.09.2020,France,1.FSV Mainz 05
+30,TylerAdams,DefensiveMidfield,21,€16.00m,16.09.2020,United States,RB Leipzig
+31,ArneMaier,DefensiveMidfield,21,€13.50m,16.09.2020,Germany,Arminia Bielefeld
+32,KevinKampl,CentralMidfield,30,€14.00m,16.09.2020,Slovenia,RB Leipzig
+33,NicolásGonzález,LeftWinger,22,€12.00m,16.09.2020,Argentina,VfB Stuttgart
+34,WilliOrban,Centre-Back,28,€12.00m,16.09.2020,Hungary,RB Leipzig
+35,NicoSchulz,Left-Back,27,€10.00m,16.09.2020,Germany,Borussia Dortmund
+36,PéterGulácsi,Goalkeeper,30,€11.00m,16.09.2020,Hungary,RB Leipzig
+37,NiklasStark,Centre-Back,25,€10.00m,16.09.2020,Germany,Hertha BSC
+38,GonçaloPaciência,Centre-Forward,26,€10.00m,16.09.2020,Portugal,FC Schalke 04
+39,MaximilianMittelstädt,Left-Back,23,€10.00m,16.09.2020,Germany,Hertha BSC
+40,JaviMartínez,DefensiveMidfield,32,€10.00m,16.09.2020,Spain,Bayern Munich
+41,William,Right-Back,25,€10.00m,16.09.2020,Brazil,VfL Wolfsburg
+42,JérômeRoussillon,Left-Back,27,€10.00m,16.09.2020,France,VfL Wolfsburg
+43,JohnAnthonyBrooks,Centre-Back,27,€10.00m,16.09.2020,United States,VfL Wolfsburg
+44,HannesWolf,AttackingMidfield,21,€10.00m,16.09.2020,Austria,Borussia Mönchengladbach
+45,OmarMascarell,DefensiveMidfield,27,€10.00m,16.09.2020,Spain,FC Schalke 04
+46,MatijaNastasic,Centre-Back,27,€10.00m,16.09.2020,Serbia,FC Schalke 04
+47,ChristianGünter,Left-Back,27,€9.00m,16.09.2020,Germany,SC Freiburg
+48,PavelKaderabek,Right-Back,28,€10.00m,16.09.2020,Czech Republic,TSG 1899 Hoffenheim
+49,AlexanderSchwolow,Goalkeeper,28,€8.00m,16.09.2020,Germany,Hertha BSC
+50,BenjaminStambouli,Centre-Back,30,€8.00m,16.09.2020,France,FC Schalke 04
+51,LudwigAugustinsson,Left-Back,26,€8.00m,16.09.2020,Sweden,SV Werder Bremen
+52,AlexanderNübel,Goalkeeper,24,€8.00m,16.09.2020,Germany,Bayern Munich
+53,DanielGinczek,Centre-Forward,29,€7.00m,16.09.2020,Germany,VfL Wolfsburg
+54,JacobBruunLarsen,LeftWinger,22,€8.00m,16.09.2020,Denmark,TSG 1899 Hoffenheim
+55,OndrejDuda,AttackingMidfield,25,€7.00m,16.09.2020,Slovakia,1. FC Köln
+56,IshakBelfodil,Centre-Forward,28,€7.50m,16.09.2020,Algeria,TSG 1899 Hoffenheim
+57,MitchellWeiser,Right-Back,26,€7.00m,16.09.2020,Germany,Bayer 04 Leverkusen
+58,JoshSargent,Centre-Forward,20,€7.00m,16.09.2020,United States,SV Werder Bremen
+59,NoahKatterbach,Left-Back,19,€7.00m,16.09.2020,Germany,1. FC Köln
+60,DannydaCosta,Right-Back,27,€7.00m,16.09.2020,Germany,Eintracht Frankfurt
+61,PatrickHerrmann,RightWinger,29,€6.50m,16.09.2020,Germany,Borussia Mönchengladbach
+62,AarónMartín,Left-Back,23,€7.00m,16.09.2020,Spain,1.FSV Mainz 05
+63,KevinVogt,Centre-Back,29,€6.00m,16.09.2020,Germany,TSG 1899 Hoffenheim
+64,MaxKruse,SecondStriker,32,€6.50m,16.09.2020,Germany,1.FC Union Berlin
+65,YannickGerhardt,CentralMidfield,26,€6.00m,16.09.2020,Germany,VfL Wolfsburg
+66,MijatGacinovic,AttackingMidfield,25,€6.00m,16.09.2020,Serbia,TSG 1899 Hoffenheim
+67,BasDost,Centre-Forward,31,€5.50m,16.09.2020,Netherlands,Eintracht Frankfurt
+68,AdmirMehmedi,SecondStriker,29,€6.00m,16.09.2020,Switzerland,VfL Wolfsburg
+69,GregorKobel,Goalkeeper,22,€5.50m,16.09.2020,Switzerland,VfB Stuttgart
+70,JonasHector,DefensiveMidfield,30,€6.00m,16.09.2020,Germany,1. FC Köln
+71,LarsStindl,SecondStriker,32,€5.00m,16.09.2020,Germany,Borussia Mönchengladbach
+72,RobinKnoche,Centre-Back,28,€5.50m,16.09.2020,Germany,1.FC Union Berlin
+73,DeyovaisioZeefuik,Right-Back,22,€5.00m,16.09.2020,Netherlands,Hertha BSC
+74,DaleySinkgraven,Left-Back,25,€5.00m,16.09.2020,Netherlands,Bayer 04 Leverkusen
+75,SebastianRudy,DefensiveMidfield,30,€4.50m,16.09.2020,Germany,TSG 1899 Hoffenheim
+76,NilsPetersen,Centre-Forward,31,€5.00m,16.09.2020,Germany,SC Freiburg
+77,MichaelGregoritsch,SecondStriker,26,€4.50m,16.09.2020,Austria,FC Augsburg
+78,MarvinPlattenhardt,Left-Back,28,€5.00m,16.09.2020,Germany,Hertha BSC
+79,MaxenceLacroix,Centre-Back,20,€4.00m,16.09.2020,France,VfL Wolfsburg
+80,JetroWillems,Left-Back,26,€4.50m,16.09.2020,Netherlands,Eintracht Frankfurt
+81,ErmedinDemirovic,Centre-Forward,22,€4.00m,16.09.2020,Bosnia-Herzegovina,SC Freiburg
+82,RenatoSteffen,RightWinger,29,€4.50m,16.09.2020,Switzerland,VfL Wolfsburg
+83,BenjaminHübner,Centre-Back,31,€4.00m,16.09.2020,Germany,TSG 1899 Hoffenheim
+84,AlfredFinnbogason,Centre-Forward,31,€4.00m,16.09.2020,Iceland,FC Augsburg
+85,AlessandroSchöpf,RightMidfield,26,€3.50m,16.09.2020,Austria,FC Schalke 04
+86,JorgeMeré,Centre-Back,23,€4.00m,16.09.2020,Spain,1. FC Köln
+87,DanielCaligiuri,RightMidfield,32,€3.00m,16.09.2020,Italy,FC Augsburg
+88,FlorianKainz,LeftWinger,28,€4.00m,16.09.2020,Austria,1. FC Köln
+89,StevenZuber,LeftMidfield,29,€3.00m,16.09.2020,Switzerland,Eintracht Frankfurt
+90,KevenSchlotterbeck,Centre-Back,23,€4.00m,16.09.2020,Germany,SC Freiburg
+91,Chang-hoonKwon,RightWinger,26,€2.80m,16.09.2020,"Korea, South",SC Freiburg
+92,ÖmerToprak,Centre-Back,31,€3.00m,16.09.2020,Turkey,SV Werder Bremen
+93,LukasKlünter,Right-Back,24,€2.80m,16.09.2020,Germany,Hertha BSC
+94,YuyaOsako,SecondStriker,30,€3.00m,16.09.2020,Japan,SV Werder Bremen
+95,NikoGießelmann,Left-Back,29,€2.50m,16.09.2020,Germany,1.FC Union Berlin
+96,BastianOczipka,Left-Back,31,€2.80m,16.09.2020,Germany,FC Schalke 04
+97,ErminBicakcic,Centre-Back,30,€2.40m,16.09.2020,Bosnia-Herzegovina,TSG 1899 Hoffenheim
+98,AnthonyModeste,Centre-Forward,32,€2.80m,16.09.2020,France,1. FC Köln
+99,LucaKilian,Centre-Back,21,€2.00m,16.09.2020,Germany,1.FSV Mainz 05
+100,KingsleyEhizibue,Right-Back,25,€2.50m,16.09.2020,Nigeria,1. FC Köln
+101,JulianBaumgartlinger,DefensiveMidfield,32,€2.00m,16.09.2020,Austria,Bayer 04 Leverkusen
+102,JosepMartínez,Goalkeeper,22,€2.50m,16.09.2020,Spain,RB Leipzig
+103,ReeceOxford,DefensiveMidfield,21,€2.00m,16.09.2020,England,FC Augsburg
+104,KasimAdams,Centre-Back,25,€2.50m,16.09.2020,Ghana,TSG 1899 Hoffenheim
+105,FelixKlaus,RightWinger,28,€2.00m,16.09.2020,Germany,VfL Wolfsburg
+106,DominickDrexler,AttackingMidfield,30,€2.20m,16.09.2020,Germany,1. FC Köln
+107,StefanIlsanker,DefensiveMidfield,31,€2.00m,16.09.2020,Austria,Eintracht Frankfurt
+108,TimothyChandler,Right-Back,30,€2.00m,16.09.2020,United States,Eintracht Frankfurt
+109,MarwinHitz,Goalkeeper,33,€1.70m,16.09.2020,Switzerland,Borussia Dortmund
+110,MarkFlekken,Goalkeeper,27,€2.00m,16.09.2020,Netherlands,SC Freiburg
+111,JannesHorn,Left-Back,23,€1.50m,16.09.2020,Germany,1. FC Köln
+112,KonstantinosStafylidis,Left-Back,26,€2.00m,16.09.2020,Greece,TSG 1899 Hoffenheim
+113,ErikDurm,Left-Back,28,€1.50m,16.09.2020,Germany,Eintracht Frankfurt
+114,DannyLatza,CentralMidfield,30,€2.00m,16.09.2020,Germany,1.FSV Mainz 05
+115,LukasKübler,Right-Back,28,€1.50m,16.09.2020,Germany,SC Freiburg
+116,RagnarAche,Centre-Forward,22,€1.80m,16.09.2020,Germany,Eintracht Frankfurt
+117,LilianEgloff,AttackingMidfield,18,€1.50m,16.09.2020,Germany,VfB Stuttgart
+118,CanBozdogan,AttackingMidfield,19,€1.50m,16.09.2020,Germany,FC Schalke 04
+119,DanielBrosinski,Right-Back,32,€1.30m,16.09.2020,Germany,1.FSV Mainz 05
+120,Ron-RobertZieler,Goalkeeper,31,€1.50m,16.09.2020,Germany,1. FC Köln
+121,BennoSchmitz,Right-Back,25,€1.00m,16.09.2020,Germany,1. FC Köln
+122,RaphaelFramberger,Right-Back,25,€1.50m,16.09.2020,Germany,FC Augsburg
+123,AbassIssah,Centre-Forward,22,€1.00m,16.09.2020,Ghana,1.FSV Mainz 05
+124,KevinMöhwald,CentralMidfield,27,€1.50m,16.09.2020,Germany,SV Werder Bremen
+125,LeventMercan,AttackingMidfield,19,€1.00m,16.09.2020,Germany,FC Schalke 04
+126,MathewLeckie,RightWinger,29,€1.50m,16.09.2020,Australia,Hertha BSC
+127,MarekSuchy,Centre-Back,32,€1.00m,16.09.2020,Czech Republic,FC Augsburg
+128,PauloOtávio,Left-Back,25,€1.20m,16.09.2020,Brazil,VfL Wolfsburg
+129,Dong-wonJi,Centre-Forward,29,€1.00m,16.09.2020,"Korea, South",1.FSV Mainz 05
+130,NiklasMoisander,Centre-Back,35,€1.00m,16.09.2020,Finland,SV Werder Bremen
+131,MalickThiaw,Centre-Back,19,€1.00m,16.09.2020,Finland,FC Schalke 04
+132,VedadIbisevic,Centre-Forward,36,€1.00m,16.09.2020,Bosnia-Herzegovina,FC Schalke 04
+133,MarcoHöger,DefensiveMidfield,31,€1.00m,16.09.2020,Germany,1. FC Köln
+134,MarcelSchmelzer,Left-Back,32,€1.00m,16.09.2020,Germany,Borussia Dortmund
+135,AymenBarkok,AttackingMidfield,22,€1.00m,16.09.2020,Morocco,Eintracht Frankfurt
+136,DavidAbraham,Centre-Back,34,€1.00m,16.09.2020,Argentina,Eintracht Frankfurt
+137,MadsPedersen,Left-Back,24,€700Th.,16.09.2020,Denmark,FC Augsburg
+138,AndréHahn,RightWinger,30,€1.00m,16.09.2020,Germany,FC Augsburg
+139,NickTaitague,AttackingMidfield,21,€100Th.,16.09.2020,United States,FC Schalke 04
+140,AmirAbrashi,DefensiveMidfield,30,€1.00m,16.09.2020,Albania,SC Freiburg
+141,LucaPhilipp,Goalkeeper,19,€100Th.,16.09.2020,Germany,TSG 1899 Hoffenheim
+142,FlorianHübner,Centre-Back,29,€1.00m,16.09.2020,Germany,1.FC Union Berlin
+143,OmerHanin,Goalkeeper,22,€200Th.,15.09.2020,Israel,1.FSV Mainz 05
+144,ÁdámSzalai,Centre-Forward,32,€1.00m,16.09.2020,Hungary,1.FSV Mainz 05
+145,AminYounes,LeftWinger,27,€5.00m,25.08.2020,Germany,Eintracht Frankfurt
+146,AkakiGogia,RightWinger,28,€800Th.,16.09.2020,Germany,1.FC Union Berlin
+147,BartoszBialek,Centre-Forward,19,€3.00m,18.08.2020,Poland,VfL Wolfsburg
+148,JulianSchieber,Centre-Forward,31,€500Th.,16.09.2020,Germany,FC Augsburg
+149,BounaSarr,Right-Back,28,€9.00m,03.08.2020,France,Bayern Munich
+150,MariusLiesegang,Goalkeeper,20,€100Th.,16.09.2020,Germany,1.FSV Mainz 05
+151,KilianLudewig,Right-Back,20,€750Th.,31.07.2020,Germany,FC Schalke 04
+152,AntonisAidonis,Centre-Back,19,€300Th.,15.09.2020,Germany,VfB Stuttgart
+153,RyanSessegnon,Left-Back,20,€25.00m,30.07.2020,England,TSG 1899 Hoffenheim
+154,DouglasCosta,RightWinger,30,€20.00m,25.08.2020,Brazil,Bayern Munich
+155,GuusTil,AttackingMidfield,22,€8.50m,29.07.2020,Netherlands,SC Freiburg
+156,JustinKluivert,LeftWinger,21,€20.00m,25.08.2020,Netherlands,RB Leipzig
+157,Hee-chanHwang,Centre-Forward,24,€15.00m,22.07.2020,"Korea, South",RB Leipzig
+158,RobertGumny,Right-Back,22,€3.50m,18.08.2020,Poland,FC Augsburg
+159,Klauss,Centre-Forward,23,€2.00m,22.07.2020,Brazil,TSG 1899 Hoffenheim
+160,AlexanderSörloth,Centre-Forward,24,€20.00m,04.08.2020,Norway,RB Leipzig
+161,ChristianGebauer,RightWinger,26,€800Th.,22.07.2020,Austria,Arminia Bielefeld
+162,OmarAlderete,Centre-Back,23,€3.00m,31.07.2020,Paraguay,Hertha BSC
+163,MarcelHartel,AttackingMidfield,24,€2.50m,15.07.2020,Germany,Arminia Bielefeld
+164,MattéoGuendouzi,CentralMidfield,21,€32.00m,30.07.2020,France,Hertha BSC
+165,AndreasVoglsammer,Centre-Forward,28,€2.50m,15.07.2020,Germany,Arminia Bielefeld
+166,MaximilianPhilipp,SecondStriker,26,€11.00m,29.07.2020,Germany,VfL Wolfsburg
+167,JoelPohjanpalo,Centre-Forward,26,€2.00m,15.07.2020,Finland,1.FC Union Berlin
+168,ToluArokodare,Centre-Forward,19,€225Th.,24.07.2020,Nigeria,1. FC Köln
+169,CédricBrunner,Right-Back,26,€1.50m,15.07.2020,Switzerland,Arminia Bielefeld
+170,RomanoSchmid,CentralMidfield,20,€2.00m,22.07.2020,Austria,SV Werder Bremen
+171,AtakanKarazor,DefensiveMidfield,24,€1.00m,15.07.2020,Germany,VfB Stuttgart
+172,AndreasPoulsen,Left-Back,21,€1.00m,22.07.2020,Denmark,Borussia Mönchengladbach
+173,FabianKlos,Centre-Forward,32,€1.00m,15.07.2020,Germany,Arminia Bielefeld
+174,JulioVillalba,Centre-Forward,22,€400Th.,22.07.2020,Paraguay,Borussia Mönchengladbach
+175,ClintonMola,Left-Back,19,€750Th.,15.07.2020,England,VfB Stuttgart
+176,WataruEndo,DefensiveMidfield,27,€2.50m,15.07.2020,Japan,VfB Stuttgart
+177,NoelNiemann,SecondStriker,21,€300Th.,15.07.2020,Germany,Arminia Bielefeld
+178,AmosPieper,Centre-Back,22,€2.50m,15.07.2020,Germany,Arminia Bielefeld
+179,DenisZakaria,DefensiveMidfield,23,€40.00m,08.07.2020,Switzerland,Borussia Mönchengladbach
+180,BornaSosa,Left-Back,22,€2.00m,15.07.2020,Croatia,VfB Stuttgart
+181,RaphaëlGuerreiro,LeftMidfield,26,€35.00m,08.07.2020,Portugal,Borussia Dortmund
+182,JoakimNilsson,Centre-Back,26,€2.00m,15.07.2020,Sweden,Arminia Bielefeld
+183,MoussaDiaby,LeftWinger,21,€32.00m,08.07.2020,France,Bayer 04 Leverkusen
+184,StefanOrtegaMoreno,Goalkeeper,28,€1.50m,15.07.2020,Germany,Arminia Bielefeld
+185,AlassanePlea,Centre-Forward,27,€30.00m,08.07.2020,France,Borussia Mönchengladbach
+186,ManuelPrietl,DefensiveMidfield,29,€1.00m,15.07.2020,Austria,Arminia Bielefeld
+187,PatrikSchick,Centre-Forward,24,€25.00m,08.07.2020,Czech Republic,Bayer 04 Leverkusen
+188,NilsSeufert,CentralMidfield,23,€850Th.,15.07.2020,Germany,Arminia Bielefeld
+189,JonathanTah,Centre-Back,24,€24.00m,08.07.2020,Germany,Bayer 04 Leverkusen
+190,MaximeAwoudja,Centre-Back,22,€500Th.,15.07.2020,Germany,VfB Stuttgart
+191,FlorianNeuhaus,CentralMidfield,23,€23.00m,08.07.2020,Germany,Borussia Mönchengladbach
+192,DavidAlaba,Centre-Back,28,€65.00m,08.07.2020,Austria,Bayern Munich
+193,MilotRashica,LeftWinger,24,€22.00m,08.07.2020,Kosovo,SV Werder Bremen
+194,MarcelSabitzer,RightWinger,26,€35.00m,08.07.2020,Austria,RB Leipzig
+195,MarcelHalstenberg,Left-Back,29,€20.00m,08.07.2020,Germany,RB Leipzig
+196,ChristopherNkunku,AttackingMidfield,23,€33.00m,08.07.2020,France,RB Leipzig
+197,ExequielPalacios,CentralMidfield,22,€18.00m,08.07.2020,Argentina,Bayer 04 Leverkusen
+198,MarcusThuram,LeftWinger,23,€32.00m,08.07.2020,France,Borussia Mönchengladbach
+199,MaximilianArnold,CentralMidfield,26,€17.00m,08.07.2020,Germany,VfL Wolfsburg
+200,WoutWeghorst,Centre-Forward,28,€30.00m,08.07.2020,Netherlands,VfL Wolfsburg
+201,GiovanniReyna,AttackingMidfield,18,€15.00m,08.07.2020,United States,Borussia Dortmund
+202,MarcoReus,AttackingMidfield,31,€25.00m,08.07.2020,Germany,Borussia Dortmund
+203,RobertSkov,RightWinger,24,€14.00m,08.07.2020,Denmark,TSG 1899 Hoffenheim
+204,AndréSilva,Centre-Forward,25,€24.00m,08.07.2020,Portugal,Eintracht Frankfurt
+205,JhonCórdoba,Centre-Forward,27,€12.00m,08.07.2020,Colombia,Hertha BSC
+206,MatheusCunha,SecondStriker,21,€22.00m,08.07.2020,Brazil,Hertha BSC
+207,PhilippLienhart,Centre-Back,24,€12.00m,08.07.2020,Austria,SC Freiburg
+208,EdmondTapsoba,Centre-Back,21,€22.00m,08.07.2020,Burkina Faso,Bayer 04 Leverkusen
+209,MarinPongracic,Centre-Back,23,€10.00m,08.07.2020,Croatia,VfL Wolfsburg
+210,Angeliño,Left-Back,23,€20.00m,08.07.2020,Spain,RB Leipzig
+211,FlorianNiederlechner,Centre-Forward,30,€10.00m,08.07.2020,Germany,FC Augsburg
+212,DodiLukebakio,RightWinger,23,€19.00m,08.07.2020,Belgium,Hertha BSC
+213,DedryckBoyata,Centre-Back,29,€10.00m,08.07.2020,Belgium,Hertha BSC

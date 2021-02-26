@@ -1,0 +1,141 @@
+,name,position,age,value,changed,nat,club
+0,SaïdBenrahma,LeftWinger,25,€22.00m,15.10.2020,Algeria,West Ham United
+1,KarlanGrant,Centre-Forward,23,€8.00m,15.10.2020,England,West Bromwich Albion
+2,JoeRodon,Centre-Back,23,€7.00m,15.10.2020,Wales,Tottenham Hotspur
+3,TerenceKongolo,Centre-Back,26,€6.50m,15.10.2020,Netherlands,Fulham FC
+4,JackButland,Goalkeeper,27,€3.50m,15.10.2020,England,Crystal Palace
+5,BrunoFernandes,AttackingMidfield,26,€80.00m,13.10.2020,Portugal,Manchester United
+6,Alisson,Goalkeeper,28,€80.00m,13.10.2020,Brazil,Liverpool FC
+7,Heung-minSon,LeftWinger,28,€75.00m,13.10.2020,Korea South,Tottenham Hotspur
+8,AndrewRobertson,Left-Back,26,€75.00m,13.10.2020,Scotland,Liverpool FC
+9,N'GoloKanté,CentralMidfield,29,€70.00m,13.10.2020,France,Chelsea FC
+10,TimoWerner,Centre-Forward,24,€70.00m,13.10.2020,Germany,Chelsea FC
+11,AnthonyMartial,Centre-Forward,24,€60.00m,13.10.2020,France,Manchester United
+12,Richarlison,Centre-Forward,23,€60.00m,13.10.2020,Brazil,Everton FC
+13,FabinhoDefensive,Midfield,27,€60.00m,13.10.2020,Brazil,Liverpool FC
+14,PhilFoden,CentralMidfield,20,€60.00m,13.10.2020,England,Manchester City
+15,GabrielJesus,Centre-Forward,23,€60.00m,13.10.2020,Brazil,Manchester City
+16,DeclanRice,DefensiveMidfield,21,€55.00m,13.10.2020,England,West Ham United
+17,DeleAlli,AttackingMidfield,24,€52.00m,13.10.2020,England,Tottenham Hotspur
+18,MasonGreenwood,RightWinger,19,€50.00m,13.10.2020,England,Manchester United
+19,RúbenDias,Centre-Back,23,€50.00m,13.10.2020,Portugal,Manchester City
+20,WilfriedZaha,LeftWinger,28,€50.00m,13.10.2020,Cote d'Ivoire,Crystal Palace
+21,Pierre-EmerickAubameyang,Centre-Forward,31,€50.00m,13.10.2020,Gabon,Arsenal FC
+22,ThomasDefensive,Midfield,27,€50.00m,13.10.2020,Ghana,Arsenal FC
+23,JorginhoDefensive,Midfield,28,€50.00m,13.10.2020,Italy,Chelsea FC
+24,HarryMaguire,Centre-Back,27,€50.00m,13.10.2020,England,Manchester United
+25,JackGrealish,LeftWinger,25,€45.00m,13.10.2020,England,Aston Villa
+26,BenChilwell,Left-Back,23,€50.00m,13.10.2020,England,Chelsea FC
+27,MasonMount,AttackingMidfield,21,€45.00m,13.10.2020,England,Chelsea FC
+28,YouriTielemans,CentralMidfield,23,€45.00m,13.10.2020,Belgium,Leicester City
+29,DavinsonSánchez,Centre-Back,24,€45.00m,13.10.2020,Colombia,Tottenham Hotspur
+30,MateoKovacic,CentralMidfield,26,€45.00m,13.10.2020,Croatia,Chelsea FC
+31,AlexandreLacazette,Centre-Forward,29,€42.00m,13.10.2020,France,Arsenal FC
+32,SergioAgüero,Centre-Forward,32,€42.00m,13.10.2020,Argentina,Manchester City
+33,DiogoJota,LeftWinger,23,€40.00m,13.10.2020,Portugal,Liverpool FC
+34,BukayoSaka,LeftMidfield,19,€40.00m,13.10.2020,England,Arsenal FC
+35,AdamaTraoré,RightWinger,24,€40.00m,13.10.2020,Spain,Wolverhampton Wanderers
+36,TanguyNdombélé,CentralMidfield,23,€40.00m,13.10.2020,France,Tottenham Hotspur
+37,NathanAké,Centre-Back,25,€40.00m,13.10.2020,Netherlands,Manchester City
+38,NicolasPépé,RightWinger,25,€40.00m,13.10.2020,Cote d'Ivoire,Arsenal FC
+39,GiovaniLoCelso,CentralMidfield,24,€35.00m,13.10.2020,Argentina,Tottenham Hotspur
+40,DominicCalvert-Lewin,Centre-Forward,23,€40.00m,13.10.2020,England,Everton FC
+41,JamesRodríguez,AttackingMidfield,29,€35.00m,13.10.2020,Colombia,Everton FC
+42,DaviddeGea,Goalkeeper,30,€35.00m,13.10.2020,Spain,Manchester United
+43,CallumHudson-Odoi,LeftWinger,20,€35.00m,13.10.2020,England,Chelsea FC
+44,NélsonSemedo,Right-Back,26,€35.00m,13.10.2020,Portugal,Wolverhampton Wanderers
+45,KieranTierney,Left-Back,23,€32.00m,13.10.2020,Scotland,Arsenal FC
+46,AllanSaint-Maximin,LeftWinger,23,€32.00m,13.10.2020,France,Newcastle United
+47,KurtZouma,Centre-Back,26,€30.00m,13.10.2020,France,Chelsea FC
+48,AntonioRüdiger,Centre-Back,27,€30.00m,13.10.2020,Germany,Chelsea FC
+49,ReeceJames,Right-Back,20,€30.00m,13.10.2020,England,Chelsea FC
+50,OllieWatkins,Centre-Forward,24,€30.00m,13.10.2020,England,Aston Villa
+51,LucasDigne,Left-Back,27,€30.00m,13.10.2020,France,Everton FC
+52,Rodrigo,Centre-Forward,29,€30.00m,13.10.2020,Spain,Leeds United
+53,JarrodBowen,RightWinger,23,€28.00m,13.10.2020,England,West Ham United
+54,SébastienHaller,Centre-Forward,26,€30.00m,13.10.2020,Cote d'Ivoire,West Ham United
+55,MichaelKeane,Centre-Back,27,€28.00m,13.10.2020,England,Everton FC
+56,JamesTarkowski,Centre-Back,27,€28.00m,13.10.2020,England,Burnley FC
+57,Gabriel,Centre-Back,22,€28.00m,13.10.2020,Brazil,Arsenal FC
+58,HarveyBarnes,LeftMidfield,22,€28.00m,13.10.2020,England,Leicester City
+59,LewisDunk,Centre-Back,28,€27.00m,13.10.2020,England,Brighton & Hove Albion
+60,SergioReguilón,Left-Back,23,€28.00m,13.10.2020,Spain,Tottenham Hotspur
+61,DouglasLuiz,DefensiveMidfield,22,€27.00m,13.10.2020,Brazil,Aston Villa
+62,GranitXhaka,DefensiveMidfield,28,€28.00m,13.10.2020,Switzerland,Arsenal FC
+63,IssaDiop,Centre-Back,23,€25.00m,13.10.2020,France,West Ham United
+64,TyroneMings,Centre-Back,27,€27.00m,13.10.2020,England,Aston Villa
+65,JohnStones,Centre-Back,26,€25.00m,13.10.2020,England,Manchester City
+66,JordanPickford,Goalkeeper,26,€26.00m,13.10.2020,England,Everton FC
+67,FábioSilva,Centre-Forward,18,€25.00m,13.10.2020,Portugal,Wolverhampton Wanderers
+68,GarethBale,RightWinger,31,€25.00m,13.10.2020,Wales,Tottenham Hotspur
+69,BenGodfrey,Centre-Back,22,€25.00m,13.10.2020,England,Everton FC
+70,Pierre-EmileHöjbjerg,DefensiveMidfield,25,€25.00m,13.10.2020,Denmark,Tottenham Hotspur
+71,AllanCentral,Midfield,29,€25.00m,13.10.2020,Brazil,Everton FC
+72,LucasMoura,RightWinger,28,€25.00m,13.10.2020,Brazil,Tottenham Hotspur
+73,AndréGomes,CentralMidfield,27,€24.00m,13.10.2020,Portugal,Everton FC
+74,ConorCoady,Centre-Back,27,€25.00m,13.10.2020,England,Wolverhampton Wanderers
+75,AlexOxlade-Chamberlain,CentralMidfield,27,€24.00m,13.10.2020,England,Liverpool FC
+76,AbdoulayeDoucouré,CentralMidfield,27,€25.00m,13.10.2020,France,Everton FC
+77,WesleyFofana,Centre-Back,19,€22.50m,13.10.2020,France,Leicester City
+78,VictorLindelöf,Centre-Back,26,€24.00m,13.10.2020,Sweden,Manchester United
+79,AleksandarMitrovic,Centre-Forward,26,€22.00m,13.10.2020,Serbia,Fulham FC
+80,TimothyCastagne,Right-Back,24,€24.00m,13.10.2020,Belgium,Leicester City
+81,DennisPraet,CentralMidfield,26,€22.00m,13.10.2020,Belgium,Leicester City
+82,CallumWilson,Centre-Forward,28,€22.50m,13.10.2020,England,Newcastle United
+83,DanielPodence,LeftWinger,25,€22.00m,13.10.2020,Portugal,Wolverhampton Wanderers
+84,PedroNeto,LeftWinger,20,€22.00m,13.10.2020,Portugal,Wolverhampton Wanderers
+85,EricGarcía,Centre-Back,19,€20.00m,13.10.2020,Spain,Manchester City
+86,KalvinPhillips,DefensiveMidfield,24,€22.00m,13.10.2020,England,Leeds United
+87,OleksandrZinchenko,Left-Back,23,€20.00m,13.10.2020,Ukraine,Manchester City
+88,EricDier,Centre-Back,26,€22.00m,13.10.2020,England,Tottenham Hotspur
+89,TobyAlderweireld,Centre-Back,31,€20.00m,13.10.2020,Belgium,Tottenham Hotspur
+90,NealMaupay,Centre-Forward,24,€22.00m,13.10.2020,France,Brighton & Hove Albion
+91,EdouardMendy,Goalkeeper,28,€20.00m,13.10.2020,Senegal,Chelsea FC
+92,CésarAzpilicueta,Right-Back,31,€20.00m,13.10.2020,Spain,Chelsea FC
+93,AyozePérez,RightWinger,27,€20.00m,13.10.2020,Spain,Leicester City
+94,MattDoherty,Right-Back,28,€20.00m,13.10.2020,Ireland,Tottenham Hotspur
+95,JamesWard-Prowse,CentralMidfield,26,€20.00m,13.10.2020,England,Southampton FC
+96,EddieNketiah,Centre-Forward,21,€20.00m,13.10.2020,England,Arsenal FC
+97,WillianRight,Winger,32,€19.00m,13.10.2020,Brazil,Arsenal FC
+98,Jean-PhilippeGbamin,DefensiveMidfield,25,€20.00m,13.10.2020,Cote d'Ivoire,Everton FC
+99,TariqLamptey,Right-Back,20,€18.00m,13.10.2020,England,Brighton & Hove Albion
+100,FikayoTomori,Centre-Back,22,€20.00m,13.10.2020,England,Chelsea FC
+101,MoussaSissoko,CentralMidfield,31,€18.00m,13.10.2020,France,Tottenham Hotspur
+102,TomasSoucek,DefensiveMidfield,25,€20.00m,13.10.2020,Czech Republic,West Ham United
+103,AinsleyMaitland-Niles,RightMidfield,23,€18.00m,13.10.2020,England,Arsenal FC
+104,Wesley,Centre-Forward,23,€20.00m,13.10.2020,Brazil,Aston Villa
+105,SanderBerge,DefensiveMidfield,22,€18.00m,13.10.2020,Norway,Sheffield United
+106,Raphinha,RightWinger,23,€18.00m,13.10.2020,Brazil,Leeds United
+107,AaronRamsdale,Goalkeeper,22,€16.00m,13.10.2020,England,Sheffield United
+108,EberechiEze,AttackingMidfield,22,€18.00m,13.10.2020,England,Crystal Palace
+109,WillyBoly,Centre-Back,29,€16.00m,13.10.2020,Cote d'Ivoire,Wolverhampton Wanderers
+110,PabloFornals,LeftMidfield,24,€18.00m,13.10.2020,Spain,West Ham United
+111,DanielJames,LeftWinger,23,€16.00m,13.10.2020,Wales,Manchester United
+112,Emerson,Left-Back,26,€18.00m,13.10.2020,Italy,Chelsea FC
+113,LeandroTrossard,LeftWinger,25,€15.00m,13.10.2020,Belgium,Brighton & Hove Albion
+114,Kepa,Goalkeeper,26,€18.00m,13.10.2020,Spain,Chelsea FC
+115,JamalLewis,Left-Back,22,€15.00m,13.10.2020,Northern Ireland,Newcastle United
+116,RyanFraser,LeftWinger,26,€16.00m,13.10.2020,Scotland,Newcastle United
+117,RhianBrewster,Centre-Forward,20,€15.00m,13.10.2020,England,Sheffield United
+118,LukaMilivojevic,DefensiveMidfield,29,€16.00m,13.10.2020,Serbia,Crystal Palace
+119,ManuelLanzini,AttackingMidfield,27,€14.00m,13.10.2020,Argentina,West Ham United
+120,AdamWebster,Centre-Back,25,€15.00m,13.10.2020,England,Brighton & Hove Albion
+121,MoussaDjenepo,LeftWinger,22,€13.00m,13.10.2020,Mali,Southampton FC
+122,OliverMcBurnie,Centre-Forward,24,€15.00m,13.10.2020,Scotland,Sheffield United
+123,YvesBissouma,CentralMidfield,24,€13.00m,13.10.2020,Mali,Brighton & Hove Albion
+124,BernardLeft,Winger,28,€15.00m,13.10.2020,Brazil,Everton FC
+125,JoachimAndersen,Centre-Back,24,€13.00m,13.10.2020,Denmark,Fulham FC
+126,BenWhite,Centre-Back,23,€15.00m,13.10.2020,England,Brighton & Hove Albion
+127,MattyCash,Right-Back,23,€12.00m,13.10.2020,England,Aston Villa
+128,JesseLingard,AttackingMidfield,27,€14.00m,13.10.2020,England,Manchester United
+129,EmilianoMartínez,Goalkeeper,28,€12.00m,13.10.2020,Argentina,Aston Villa
+130,RuiPatrício,Goalkeeper,32,€14.00m,13.10.2020,Portugal,Wolverhampton Wanderers
+131,HélderCosta,RightWinger,26,€12.00m,13.10.2020,Portugal,Leeds United
+132,MatheusPereira,RightWinger,24,€13.00m,13.10.2020,Brazil,West Bromwich Albion
+133,GradyDiangana,LeftWinger,22,€12.00m,13.10.2020,England,West Bromwich Albion
+134,BertrandTraoré,RightWinger,25,€13.00m,13.10.2020,Burkina Faso,Aston Villa
+135,ShkodranMustafi,Centre-Back,28,€12.00m,13.10.2020,Germany,Arsenal FC
+136,MichyBatshuayi,Centre-Forward,27,€12.00m,13.10.2020,Belgium,Crystal Palace
+137,MichailAntonio,Centre-Forward,30,€12.00m,13.10.2020,England,West Ham United
+138,EdinsonCavani,Centre-Forward,33,€12.00m,13.10.2020,Uruguay,Manchester United
+139,DavyPröpper,CentralMidfield,29,€10.00m,13.10.2020,Netherlands,Brighton & Hove Albion

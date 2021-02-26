@@ -1,0 +1,157 @@
+,name,position,age,value,changed,nat,club
+0,Marquinhos,Centre-Back,26,€70.00m,15.10.2020,Brazil,Paris Saint-Germain
+1,MauroIcardi,Centre-Forward,27,€55.00m,15.10.2020,Argentina,Paris Saint-Germain
+2,EduardoCamavinga,CentralMidfield,18,€50.00m,15.10.2020,France,Stade Rennais FC
+3,HoussemAouar,CentralMidfield,22,€50.00m,15.10.2020,France,Olympique Lyon
+4,MemphisDepay,LeftWinger,26,€45.00m,15.10.2020,Netherlands,Olympique Lyon
+5,PresnelKimpembe,Centre-Back,25,€35.00m,15.10.2020,France,Paris Saint-Germain
+6,BoubacarKamara,DefensiveMidfield,20,€32.00m,15.10.2020,France,Olympique Marseille
+7,JonathanDavid,Centre-Forward,20,€30.00m,15.10.2020,Canada,LOSC Lille
+8,RayanCherki,AttackingMidfield,17,€25.00m,15.10.2020,France,Olympique Lyon
+9,AbdouDiallo,Centre-Back,24,€25.00m,15.10.2020,France,Paris Saint-Germain
+10,PabloSarabia,RightWinger,28,€25.00m,15.10.2020,Spain,Paris Saint-Germain
+11,BenoîtBadiashile,Centre-Back,19,€25.00m,15.10.2020,France,AS Monaco
+12,JeffReine-Adélaïde,CentralMidfield,22,€25.00m,15.10.2020,France,OGC Nice
+13,KasperDolberg,Centre-Forward,23,€23.00m,15.10.2020,Denmark,OGC Nice
+14,ZekiCelik,Right-Back,23,€20.00m,15.10.2020,Turkey,LOSC Lille
+15,JérémyDoku,RightWinger,18,€20.00m,15.10.2020,Belgium,Stade Rennais FC
+16,MikeMaignan,Goalkeeper,25,€20.00m,15.10.2020,France,LOSC Lille
+17,JonathanBamba,LeftWinger,24,€20.00m,15.10.2020,France,LOSC Lille
+18,AnthonyLopes,Goalkeeper,30,€19.00m,15.10.2020,Portugal,Olympique Lyon
+19,ValentinRongier,CentralMidfield,25,€18.00m,15.10.2020,France,Olympique Marseille
+20,JasonDenayer,Centre-Back,25,€16.00m,15.10.2020,Belgium,Olympique Lyon
+21,SerhouGuirassy,Centre-Forward,24,€15.00m,15.10.2020,France,Stade Rennais FC
+22,BenjaminBourigeaud,CentralMidfield,26,€15.00m,15.10.2020,France,Stade Rennais FC
+23,AmineGouiri,LeftWinger,20,€15.00m,15.10.2020,France,OGC Nice
+24,ThiagoMendes,DefensiveMidfield,28,€15.00m,15.10.2020,Brazil,Olympique Lyon
+25,MohamedSimakan,Centre-Back,20,€15.00m,15.10.2020,France,RC Strasbourg Alsace
+26,AnderHerrera,CentralMidfield,31,€15.00m,15.10.2020,Spain,Paris Saint-Germain
+27,KarlTokoEkambi,Centre-Forward,28,€13.00m,15.10.2020,Cameroon,Olympique Lyon
+28,LéoDubois,Right-Back,26,€14.00m,15.10.2020,France,Olympique Lyon
+29,AlbanLafont,Goalkeeper,21,€12.50m,15.10.2020,France,FC Nantes
+30,FaitoutMaouassa,Left-Back,22,€13.00m,15.10.2020,France,Stade Rennais FC
+31,LudovicBlas,AttackingMidfield,22,€12.00m,15.10.2020,France,FC Nantes
+32,MaxenceCaqueret,CentralMidfield,20,€12.00m,15.10.2020,France,Olympique Lyon
+33,ImrânLouza,CentralMidfield,21,€12.00m,15.10.2020,France,FC Nantes
+34,DenisBouanga,LeftWinger,26,€12.00m,15.10.2020,Gabon,AS Saint-Étienne
+35,TéjiSavanier,CentralMidfield,28,€12.00m,15.10.2020,France,Montpellier HSC
+36,M'BayeNiang,Centre-Forward,25,€12.00m,15.10.2020,Senegal,Stade Rennais FC
+37,ColinDagba,Right-Back,22,€12.00m,15.10.2020,France,Paris Saint-Germain
+38,AlessandroFlorenzi,Right-Back,29,€12.00m,15.10.2020,Italy,Paris Saint-Germain
+39,AdilAouchiche,AttackingMidfield,18,€10.00m,15.10.2020,France,AS Saint-Étienne
+40,ElBilalTouré,Centre-Forward,19,€11.00m,15.10.2020,Mali,Stade Reims
+41,MorganSchneiderlin,DefensiveMidfield,31,€10.00m,15.10.2020,France,OGC Nice
+42,KeylorNavas,Goalkeeper,33,€10.00m,15.10.2020,Costa Rica,Paris Saint-Germain
+43,SvenBotman,Centre-Back,20,€10.00m,15.10.2020,Netherlands,LOSC Lille
+44,WalterBenítez,Goalkeeper,27,€10.00m,15.10.2020,Argentina,OGC Nice
+45,JordanAmavi,Left-Back,26,€10.00m,15.10.2020,France,Olympique Marseille
+46,GaëtanLaborde,Centre-Forward,26,€10.00m,15.10.2020,France,Montpellier HSC
+47,IbrahimaNiane,Centre-Forward,21,€9.00m,15.10.2020,Senegal,FC Metz
+48,BenjaminAndré,CentralMidfield,30,€10.00m,15.10.2020,France,LOSC Lille
+49,AdrianGrbic,Centre-Forward,24,€9.00m,15.10.2020,Austria,FC Lorient
+50,MounirChouiar,LeftWinger,21,€9.00m,15.10.2020,France,Dijon FCO
+51,PredragRajkovic,Goalkeeper,25,€9.00m,15.10.2020,Serbia,Stade Reims
+52,KennyLala,Right-Back,29,€9.00m,15.10.2020,France,RC Strasbourg Alsace
+53,RubenAguilar,Right-Back,27,€8.00m,15.10.2020,France,AS Monaco
+54,AlfredGomis,Goalkeeper,27,€9.00m,15.10.2020,Senegal,Stade Rennais FC
+55,NayefAguerd,Centre-Back,24,€8.00m,15.10.2020,Morocco,Stade Rennais FC
+56,DimitriPayet,LeftWinger,33,€8.50m,15.10.2020,France,Olympique Marseille
+57,LuizAraújo,RightWinger,24,€8.00m,15.10.2020,Brazil,LOSC Lille
+58,FacundoMedina,Centre-Back,21,€8.00m,15.10.2020,Argentina,RC Lens
+59,ZaydouYoussouf,CentralMidfield,21,€8.00m,15.10.2020,France,AS Saint-Étienne
+60,StanleyNsoki,Left-Back,21,€8.00m,15.10.2020,France,OGC Nice
+61,PaulBernardoni,Goalkeeper,23,€8.00m,15.10.2020,France,SCO Angers
+62,LuisHenrique,LeftWinger,18,€8.00m,15.10.2020,Brazil,Olympique Marseille
+63,HamariTraoré,Right-Back,28,€8.00m,15.10.2020,Mali,Stade Rennais FC
+64,HassaneKamara,Left-Back,26,€8.00m,15.10.2020,France,OGC Nice
+65,MyzianeMaolida,Centre-Forward,21,€7.50m,15.10.2020,France,OGC Nice
+66,BoulayeDia,Centre-Forward,23,€8.00m,15.10.2020,Senegal,Stade Reims
+67,TimothyWeah,Centre-Forward,20,€7.50m,15.10.2020,United States,LOSC Lille
+68,LeonardoBalerdi,Centre-Back,21,€7.50m,15.10.2020,Argentina,Olympique Marseille
+69,GautierLarsonneur,Goalkeeper,23,€7.00m,15.10.2020,France,Stade Brest 29
+70,FodéBallo-Touré,Left-Back,23,€7.50m,15.10.2020,France,AS Monaco
+71,IrvinCardona,Centre-Forward,23,€7.00m,15.10.2020,France,Stade Brest 29
+72,OtávioDefensive,Midfield,26,€7.00m,15.10.2020,Brazil,FC Girondins Bordeaux
+73,MosesSimon,LeftWinger,25,€7.00m,15.10.2020,Nigeria,FC Nantes
+74,LudovicAjorque,Centre-Forward,26,€7.00m,15.10.2020,France,RC Strasbourg Alsace
+75,IgnatiusGanago,Centre-Forward,21,€7.00m,15.10.2020,Cameroon,RC Lens
+76,ÁlvaroGonzález,Centre-Back,30,€7.00m,15.10.2020,Spain,Olympique Marseille
+77,JoshMaja,Centre-Forward,21,€6.50m,15.10.2020,Nigeria,FC Girondins Bordeaux
+78,TomaBasic,CentralMidfield,23,€7.00m,15.10.2020,Croatia,FC Girondins Bordeaux
+79,JordanLotomba,Right-Back,22,€6.00m,15.10.2020,Switzerland,OGC Nice
+80,SamuelKalu,RightWinger,23,€7.00m,15.10.2020,Nigeria,FC Girondins Bordeaux
+81,WahbiKhazri,Centre-Forward,29,€6.00m,15.10.2020,Tunisia,AS Saint-Étienne
+82,YacineAdli,AttackingMidfield,20,€6.50m,15.10.2020,France,FC Girondins Bordeaux
+83,DomagojBradaric,Left-Back,20,€6.00m,15.10.2020,Croatia,LOSC Lille
+84,ZinedineFerhat,RightMidfield,27,€6.00m,15.10.2020,Algeria,Nîmes Olympique
+85,GhislainKonan,Left-Back,24,€6.00m,15.10.2020,Cote d'Ivoire,Stade Reims
+86,RomainDelCastillo,RightWinger,24,€6.00m,15.10.2020,France,Stade Rennais FC
+87,JonasOmlin,Goalkeeper,26,€6.00m,15.10.2020,Switzerland,Montpellier HSC
+88,GaëlKakuta,AttackingMidfield,29,€6.00m,15.10.2020,DR Congo,RC Lens
+89,PedroMendes,Centre-Back,30,€6.00m,15.10.2020,Portugal,Montpellier HSC
+90,KevinStrootman,CentralMidfield,30,€6.00m,15.10.2020,Netherlands,Olympique Marseille
+91,TeremMoffi,Centre-Forward,21,€6.00m,15.10.2020,Nigeria,FC Lorient
+92,PanagiotisRetsos,Centre-Back,22,€6.00m,15.10.2020,Greece,AS Saint-Étienne
+93,KhéphrenThuram,DefensiveMidfield,19,€5.50m,15.10.2020,France,OGC Nice
+94,StéphaneBahoken,Centre-Forward,28,€6.00m,15.10.2020,Cameroon,SCO Angers
+95,ArnaudNordin,LeftWinger,22,€5.00m,15.10.2020,France,AS Saint-Étienne
+96,IbrahimaSissoko,DefensiveMidfield,23,€6.00m,15.10.2020,France,RC Strasbourg Alsace
+97,BrandonSoppy,Right-Back,18,€5.00m,15.10.2020,France,Stade Rennais FC
+98,ThomasFoket,Right-Back,26,€5.50m,15.10.2020,Belgium,Stade Reims
+99,ArbërZeneli,LeftWinger,25,€5.00m,15.10.2020,Kosovo,Stade Reims
+100,NemanjaRadonjic,LeftWinger,24,€5.50m,15.10.2020,Serbia,Olympique Marseille
+101,AndreiGirotto,Centre-Back,28,€5.00m,15.10.2020,Brazil,FC Nantes
+102,NathanaëlMbuku,LeftWinger,18,€5.00m,15.10.2020,France,Stade Reims
+103,AdamaSoumaoro,Centre-Back,28,€5.00m,15.10.2020,France,LOSC Lille
+104,AndyPelmard,Centre-Back,20,€5.00m,15.10.2020,France,OGC Nice
+105,RomainPerraud,Left-Back,23,€5.00m,15.10.2020,France,Stade Brest 29
+106,ChristopheHérelle,Centre-Back,28,€5.00m,15.10.2020,France,Stade Brest 29
+107,EnzoLeFée,CentralMidfield,20,€4.50m,15.10.2020,France,FC Lorient
+108,JamesLéaSiliki,CentralMidfield,24,€5.00m,15.10.2020,France,Stade Rennais FC
+109,XavierChavalerin,DefensiveMidfield,29,€4.50m,15.10.2020,France,Stade Reims
+110,FabienCentonze,Right-Back,24,€5.00m,15.10.2020,France,FC Metz
+111,ClémentGrenier,CentralMidfield,29,€4.20m,15.10.2020,France,Stade Rennais FC
+112,ArthurZagre,Left-Back,19,€5.00m,15.10.2020,France,Dijon FCO
+113,MelvinBard,Left-Back,20,€4.00m,15.10.2020,France,Olympique Lyon
+114,YoaneWissa,LeftWinger,24,€5.00m,15.10.2020,DR Congo,FC Lorient
+115,Jean-RicnerBellegarde,CentralMidfield,22,€4.00m,15.10.2020,France,RC Strasbourg Alsace
+116,DylanBronn,Centre-Back,25,€4.50m,15.10.2020,Tunisia,FC Metz
+117,HaroldMoukoudi,Centre-Back,22,€4.00m,15.10.2020,Cameroon,AS Saint-Étienne
+118,TimothéeKolodziejczak,Centre-Back,29,€4.50m,15.10.2020,France,AS Saint-Étienne
+119,HabibMaïga,DefensiveMidfield,24,€4.00m,15.10.2020,Cote d'Ivoire,FC Metz
+120,RenaudRipart,RightMidfield,27,€4.00m,15.10.2020,France,Nîmes Olympique
+121,NicolasCozza,Centre-Back,21,€3.50m,15.10.2020,France,Montpellier HSC
+122,OpaNguette,LeftWinger,26,€4.00m,15.10.2020,Senegal,FC Metz
+123,MamaBaldé,RightWinger,25,€3.50m,15.10.2020,Guinea-Bissau,Dijon FCO
+124,PapeCheikh,CentralMidfield,23,€4.00m,15.10.2020,Senegal,Dijon FCO
+125,MahdiCamara,CentralMidfield,22,€3.50m,15.10.2020,France,AS Saint-Étienne
+126,YoussefAïtBennasser,CentralMidfield,24,€4.00m,15.10.2020,Morocco,AS Monaco
+127,MamadouFofana,Centre-Back,22,€3.50m,15.10.2020,Mali,FC Metz
+128,AndrésCubas,DefensiveMidfield,24,€4.00m,15.10.2020,Paraguay,Nîmes Olympique
+129,IsaacLihadji,RightWinger,18,€3.50m,15.10.2020,France,LOSC Lille
+130,MitchelBakker,Left-Back,20,€3.50m,15.10.2020,Netherlands,Paris Saint-Germain
+131,DarioMaresic,Centre-Back,21,€3.50m,15.10.2020,Austria,Stade Reims
+132,SadaThioub,RightWinger,25,€3.50m,15.10.2020,Senegal,SCO Angers
+133,LorisBenito,Left-Back,28,€3.50m,15.10.2020,Switzerland,FC Girondins Bordeaux
+134,WuilkerFariñez,Goalkeeper,22,€3.50m,15.10.2020,Venezuela,RC Lens
+135,DidierNdong,CentralMidfield,26,€3.50m,15.10.2020,Gabon,Dijon FCO
+136,CheickDoucouré,DefensiveMidfield,20,€3.50m,15.10.2020,Mali,RC Lens
+137,AntoninBobichon,CentralMidfield,25,€3.50m,15.10.2020,France,SCO Angers
+138,AnthonyCaci,Left-Back,23,€3.50m,15.10.2020,France,RC Strasbourg Alsace
+139,KalifaCoulibaly,Centre-Forward,29,€3.20m,15.10.2020,Mali,FC Nantes
+140,HatemBenArfa,AttackingMidfield,33,€3.50m,15.10.2020,FranceFC, Girondins Bordeaux
+141,KajSierhuis,Centre-Forward,22,€3.00m,15.10.2020,Netherlands,Stade Reims
+142,EnockKwateng,Right-Back,23,€3.50m,15.10.2020,France,FC Girondins Bordeaux
+143,CharlesAbi,Centre-Forward,20,€3.00m,15.10.2020,France,AS Saint-Étienne
+144,AnthonyBriancon,Centre-Back,25,€3.50m,15.10.2020,France,Nîmes Olympique
+145,PapeGueye,DefensiveMidfield,21,€3.00m,15.10.2020,France,Olympique Marseille
+146,JonathanPanzo,Centre-Back,20,€3.50m,15.10.2020,England,Dijon FCO
+147,RomainFaivre,CentralMidfield,22,€3.00m,15.10.2020,France,Stade Brest 29
+148,MathiasPereiraLage,LeftMidfield,23,€3.50m,15.10.2020,Portugal,SCO Angers
+149,JeséLeft,Winger,27,€3.00m,15.10.2020,Spain,Paris Saint-Germain
+150,MarcusCoco,RightWinger,24,€3.00m,15.10.2020,France,FC Nantes
+151,KikiKouyaté,Centre-Back,23,€3.00m,15.10.2020,Mali,FC Metz
+152,ÉricEbimbe,RightWinger,19,€3.00m,15.10.2020,France,Dijon FCO
+153,VictorienAngban,CentralMidfield,24,€3.00m,15.10.2020,Cote d'Ivoire,FC Metz
+154,Marcelo,Centre-Back,33,€3.00m,15.10.2020,Brazil,Olympique Lyon
+155,Pierre-YvesHamel,Centre-Forward,26,€3.00m,15.10.2020,France,FC Lorient

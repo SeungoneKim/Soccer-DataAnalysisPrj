@@ -1,0 +1,185 @@
+,name,position,age,value,changed,nat,club
+0,ArthurCentral,Midfield,24,€60.00m,29.10.2020,Brazil,Juventus FC
+1,VictorOsimhen,Centre-Forward,21,€50.00m,29.10.2020,Nigeria,SSC Napoli
+2,ChristianEriksen,AttackingMidfield,28,€50.00m,29.10.2020,Denmark,Inter Milan
+3,AchrafHakimi,RightMidfield,22,€50.00m,29.10.2020,Morocco,Inter Milan
+4,NicolòZaniolo,AttackingMidfield,21,€45.00m,29.10.2020,Italy,AS Roma
+5,DejanKulusevski,RightWinger,20,€45.00m,29.10.2020,Sweden,Juventus FC
+6,ÁlvaroMorata,Centre-Forward,28,€40.00m,29.10.2020,Spain,Juventus FC
+7,MarceloBrozovic,DefensiveMidfield,27,€40.00m,29.10.2020,Croatia,Inter Milan
+8,FranckKessié,CentralMidfield,23,€35.00m,29.10.2020,Cote d'Ivoire,AC Milan
+9,HirvingLozano,LeftWinger,25,€33.00m,29.10.2020,Mexico,SSC Napoli
+10,IsmaëlBennacer,DefensiveMidfield,22,€33.00m,29.10.2020,Algeria,AC Milan
+11,ManuelLocatelli,CentralMidfield,22,€30.00m,29.10.2020,Italy,US Sassuolo
+12,HakanCalhanoglu,AttackingMidfield,26,€30.00m,29.10.2020,Turkey,AC Milan
+13,JordanVeretout,CentralMidfield,27,€28.00m,29.10.2020,France,AS Roma
+14,RafaelLeão,Centre-Forward,21,€28.00m,29.10.2020,Portugal,AC Milan
+15,ArkadiuszMilik,Centre-Forward,26,€27.00m,29.10.2020,Poland,SSC Napoli
+16,TiemouéBakayoko,DefensiveMidfield,26,€26.00m,29.10.2020,France,SSC Napoli
+17,GaetanoCastrovilli,CentralMidfield,23,€25.00m,29.10.2020,Italy,ACF Fiorentina
+18,WestonMcKennie,CentralMidfield,22,€22.00m,29.10.2020,United States,Juventus FC
+19,LeonardoSpinazzola,Left-Back,27,€18.00m,29.10.2020,Italy,AS Roma
+20,VedatMuriqi,Centre-Forward,26,€17.00m,29.10.2020,Kosovo,SS Lazio
+21,RogerIbañez,Centre-Back,21,€15.00m,29.10.2020,Brazil,AS Roma
+22,AlexisSaelemaekers,RightWinger,21,€15.00m,29.10.2020,Belgium,AC Milan
+23,JosipIlicic,SecondStriker,32,€15.00m,29.10.2020,Slovenia,Atalanta BC
+24,BrahimDíaz,AttackingMidfield,21,€14.00m,29.10.2020,Spain,AC Milan
+25,PauLópez,Goalkeeper,25,€12.00m,29.10.2020,Spain,AS Roma
+26,WylanCyprien,CentralMidfield,25,€12.00m,29.10.2020,France,Parma Calcio 1913
+27,KeitaBaldé,LeftWinger,25,€11.00m,29.10.2020,Senegal,UC Sampdoria
+28,LucasMartínezQuarta,Centre-Back,24,€12.00m,29.10.2020,Argentina,ACF Fiorentina
+29,MaximeLópez,CentralMidfield,22,€10.00m,29.10.2020,France,US Sassuolo
+30,RazvanMarin,CentralMidfield,24,€10.00m,29.10.2020,Romania,Cagliari Calcio
+31,ArturoVidal,CentralMidfield,33,€10.00m,29.10.2020,Chile,Inter Milan
+32,RadjaNainggolan,AttackingMidfield,32,€10.00m,29.10.2020,Belgium,Inter Milan
+33,FilipDjuricic,AttackingMidfield,28,€9.00m,29.10.2020,Serbia,US Sassuolo
+34,SamLammers,Centre-Forward,23,€9.00m,29.10.2020,Netherlands,Atalanta BC
+35,ValentinMihaila,LeftWinger,20,€6.00m,29.10.2020,Romania,Parma Calcio 1913
+36,SebastianWalukiewicz,Centre-Back,20,€7.00m,29.10.2020,Poland,Cagliari Calcio
+37,LautaroValenti,Centre-Back,21,€5.00m,29.10.2020,Argentina,Parma Calcio 1913
+38,WesleyHoedt,Centre-Back,26,€6.00m,29.10.2020,Netherlands,SS Lazio
+39,JuanBrunetta,AttackingMidfield,23,€5.00m,29.10.2020,Argentina,Parma Calcio 1913
+40,JeroenZoet,Goalkeeper,29,€5.00m,29.10.2020,Netherlands,Spezia Calcio
+41,MaximeBusi,Right-Back,21,€5.00m,29.10.2020,Belgium,Parma Calcio 1913
+42,RiccardoSottil,LeftWinger,21,€5.00m,29.10.2020,Italy,Cagliari Calcio
+43,MërgimVojvoda,Right-Back,25,€5.00m,29.10.2020,Kosovo,Torino FC
+44,SimonSohm,DefensiveMidfield,19,€5.00m,29.10.2020,Switzerland,Parma Calcio 1913
+45,NahuelMolina,Right-Back,22,€4.50m,29.10.2020,Argentina,Udinese Calcio
+46,LisandroMagallán,Centre-Back,27,€4.50m,29.10.2020,Argentina,FC Crotone
+47,FilippoRomagna,Centre-Back,23,€4.00m,29.10.2020,Italy,US Sassuolo
+48,MertCetin,Centre-Back,23,€4.00m,29.10.2020,Turkey,Hellas Verona
+49,MatteoLovato,Centre-Back,20,€4.00m,29.10.2020,Italy,Hellas Verona
+50,CristianoPiccini,Right-Back,28,€4.00m,29.10.2020,Italy,Atalanta BC
+51,YordanOsorio,Centre-Back,26,€3.00m,29.10.2020,Venezuela,Parma Calcio 1913
+52,JensPetterHauge,LeftWinger,21,€4.00m,29.10.2020,Norway,AC Milan
+53,EbrimaColley,LeftWinger,20,€3.00m,29.10.2020,The Gambia,Hellas Verona
+54,Jean-VictorMakengo,CentralMidfield,22,€3.50m,29.10.2020,France,Udinese Calcio
+55,ThomasOuwejan,Left-Back,24,€2.50m,29.10.2020,Netherlands,Udinese Calcio
+56,LorenzoMontipò,Goalkeeper,24,€3.00m,29.10.2020,Italy,Benevento Calcio
+57,AaronHickey,Left-Back,18,€2.50m,29.10.2020,Scotland,Bologna FC 1909
+58,JohanMojica,Left-Back,28,€2.50m,29.10.2020,Colombia,Atalanta BC
+59,FernandoLlorente,Centre-Forward,35,€2.00m,29.10.2020,Spain,SSC Napoli
+60,NicolòRovella,DefensiveMidfield,18,€2.50m,29.10.2020,Italy,Genoa CFC
+61,JuniorMessias,RightWinger,29,€2.00m,29.10.2020,Brazil,FC Crotone
+62,GianlucaFrabotta,Left-Back,21,€2.50m,29.10.2020,Italy,Juventus FC
+63,Jean-DanielAkpaAkpro,CentralMidfield,28,€1.70m,29.10.2020,Cote d'Ivoire,SS Lazio
+64,PedroPereira,RightMidfield,22,€2.00m,29.10.2020,Portugal,FC Crotone
+65,AlessandroTripaldelli,Left-Back,21,€1.00m,29.10.2020,Italy,Cagliari Calcio
+66,ArdianIsmajli,Centre-Back,24,€1.80m,29.10.2020,Albania,Spezia Calcio
+67,DaamFoulon,Left-Back,21,€900Th.,29.10.2020,Belgium,Benevento Calcio
+68,AntonioMirante,Goalkeeper,37,€1.50m,29.10.2020,Italy,AS Roma
+69,AndrejGalabinov,Centre-Forward,32,€800Th.,29.10.2020,Bulgaria,Spezia Calcio
+70,JoelAsoro,Centre-Forward,21,€1.00m,29.10.2020,Sweden,Genoa CFC
+71,CiprianTatarusanu,Goalkeeper,34,€700Th.,29.10.2020,Romania,AC Milan
+72,DanielMaldini,AttackingMidfield,19,€800Th.,29.10.2020,Italy,AC Milan
+73,RobertoPereyra,AttackingMidfield,29,€7.50m,13.10.2020,Argentina,Udinese Calcio
+74,NahuelEstévez,CentralMidfield,25,€750Th.,29.10.2020,Argentina,Spezia Calcio
+75,AdrienSilva,CentralMidfield,31,€6.00m,13.10.2020,Portugal,UC Sampdoria
+76,GerardDeulofeu,LeftWinger,26,€15.00m,13.10.2020,Spain,Udinese Calcio
+77,FernandoForestieri,SecondStriker,30,€900Th.,13.10.2020,Italy,Udinese Calcio
+78,AndreasPereira,AttackingMidfield,24,€12.00m,13.10.2020,Brazil,SS Lazio
+79,RomeluLukaku,Centre-Forward,27,€85.00m,25.08.2020,Belgium,Inter Milan
+80,Pedro,RightWinger,33,€7.50m,13.10.2020,Spain,AS Roma
+81,LautaroMartínez,Centre-Forward,23,€70.00m,25.08.2020,Argentina,Inter Milan
+82,IgnacioPussetto,RightWinger,24,€4.00m,13.10.2020,Argentina,Udinese Calcio
+83,SergejMilinkovic-Savic,CentralMidfield,25,€65.00m,25.08.2020,Serbia,SS Lazio
+84,IvanPerisic,LeftWinger,31,€15.00m,16.09.2020,Croatia,Inter Milan
+85,GianluigiDonnarumma,Goalkeeper,21,€60.00m,25.08.2020,Italy,AC Milan
+86,PauloDybala,SecondStriker,26,€80.00m,25.08.2020,Argentina,Juventus FC
+87,RodrigoBentancur,CentralMidfield,23,€50.00m,25.08.2020,Uruguay,Juventus FC
+88,MatthijsdeLigt,Centre-Back,21,€70.00m,25.08.2020,Netherlands,Juventus FC
+89,LuisAlberto,AttackingMidfield,28,€50.00m,25.08.2020,Spain,SS Lazio
+90,KalidouKoulibaly,Centre-Back,29,€65.00m,25.08.2020,Senegal,SSC Napoli
+91,MilanSkriniar,Centre-Back,25,€50.00m,25.08.2020,Slovakia,Inter Milan
+92,StefandeVrij,Centre-Back,28,€60.00m,25.08.2020,Netherlands,Inter Milan
+93,AlessandroBastoni,Centre-Back,21,€45.00m,25.08.2020,Italy,Inter Milan
+94,NicolòBarella,CentralMidfield,23,€50.00m,25.08.2020,Italy,Inter Milan
+95,DuvánZapata,Centre-Forward,29,€40.00m,25.08.2020,Colombia,Atalanta BC
+96,FabiánRuiz,CentralMidfield,24,€50.00m,25.08.2020,Spain,SSC Napoli
+97,AndreaBelotti,Centre-Forward,26,€35.00m,25.08.2020,Italy,Torino FC
+98,TheoHernández,Left-Back,23,€45.00m,25.08.2020,France,AC Milan
+99,SandroTonali,DefensiveMidfield,20,€32.00m,25.08.2020,Italy,AC Milan
+100,CiroImmobile,Centre-Forward,30,€45.00m,25.08.2020,Italy,SS Lazio
+101,RodrigodePaul,CentralMidfield,26,€30.00m,25.08.2020,Argentina,Udinese Calcio
+102,WojciechSzczesny,Goalkeeper,30,€35.00m,25.08.2020,Poland,Juventus FC
+103,AdrienRabiot,CentralMidfield,25,€28.00m,25.08.2020,France,Juventus FC
+104,AlexSandro,Left-Back,29,€35.00m,25.08.2020,Brazil,Juventus FC
+105,RobinGosens,Left-Back,26,€27.00m,25.08.2020,Germany,Atalanta BC
+106,PiotrZielinski,CentralMidfield,26,€35.00m,25.08.2020,Poland,SSC Napoli
+107,JérémieBoga,LeftWinger,23,€25.00m,25.08.2020,Cote d'Ivoire,US Sassuolo
+108,AnteRebic,LeftWinger,27,€32.00m,25.08.2020,Croatia,AC Milan
+109,ThomasStrakosha,Goalkeeper,25,€25.00m,25.08.2020,Albania,SS Lazio
+110,JoaquínCorrea,SecondStriker,26,€30.00m,25.08.2020,Argentina,SS Lazio
+111,MarashKumbulla,Centre-Back,20,€25.00m,25.08.2020,Albania,AS Roma
+112,NikolaMilenkovic,Centre-Back,23,€28.00m,25.08.2020,Serbia,ACF Fiorentina
+113,MartendeRoon,DefensiveMidfield,29,€23.00m,25.08.2020,Netherlands,Atalanta BC
+114,MarioPasalic,CentralMidfield,25,€25.00m,25.08.2020,Croatia,Atalanta BC
+115,RemoFreuler,CentralMidfield,28,€23.00m,25.08.2020,Switzerland,Atalanta BC
+116,FedericoBernardeschi,RightWinger,26,€25.00m,25.08.2020,Italy,Juventus FC
+117,MatteoPolitano,RightWinger,27,€22.00m,25.08.2020,Italy,SSC Napoli
+118,AlexMeret,Goalkeeper,23,€25.00m,25.08.2020,Italy,SSC Napoli
+119,LuisMuriel,Centre-Forward,29,€22.00m,25.08.2020,Colombia,Atalanta BC
+120,DomenicoBerardi,RightWinger,26,€24.00m,25.08.2020,Italy,US Sassuolo
+121,GianlucaMancini,Centre-Back,24,€22.00m,25.08.2020,Italy,AS Roma
+122,NahitanNández,CentralMidfield,24,€23.00m,25.08.2020,Uruguay,Cagliari Calcio
+123,AmadouDiawara,DefensiveMidfield,23,€20.00m,25.08.2020,Guinea,AS Roma
+124,GiovanniDiLorenzo,Right-Back,27,€22.00m,25.08.2020,Italy,SSC Napoli
+125,SofyanAmrabat,CentralMidfield,24,€20.00m,25.08.2020,Morocco,ACF Fiorentina
+126,LuizFelipe,Centre-Back,23,€22.00m,25.08.2020,Brazil,SS Lazio
+127,AlessioCragno,Goalkeeper,26,€20.00m,25.08.2020,Italy,Cagliari Calcio
+128,RiccardoOrsolini,RightWinger,23,€22.00m,25.08.2020,Italy,Bologna FC 1909
+129,StanislavLobotka,DefensiveMidfield,25,€19.00m,25.08.2020,Slovakia,SSC Napoli
+130,AaronRamsey,CentralMidfield,29,€22.00m,25.08.2020,Wales,Juventus FC
+131,LeonardoBonucci,Centre-Back,33,€18.00m,25.08.2020,Italy,Juventus FC
+132,RuslanMalinovskyi,AttackingMidfield,27,€21.00m,25.08.2020,Ukraine,Atalanta BC
+133,EljifElmas,CentralMidfield,21,€18.00m,25.08.2020,North Macedonia,SSC Napoli
+134,StefanoSensi,CentralMidfield,25,€20.00m,25.08.2020,Italy,Inter Milan
+135,ManuelLazzari,RightMidfield,26,€18.00m,25.08.2020,Italy,SS Lazio
+136,ChrisSmalling,Centre-Back,30,€20.00m,25.08.2020,England,AS Roma
+137,HansHateboer,Right-Back,26,€18.00m,25.08.2020,Netherlands,Atalanta BC
+138,JuanMusso,Goalkeeper,26,€20.00m,25.08.2020,Argentina,Udinese Calcio
+139,PierluigiGollini,Goalkeeper,25,€17.00m,25.08.2020,Italy,Atalanta BC
+140,DriesMertens,Centre-Forward,33,€18.00m,25.08.2020,Belgium,SSC Napoli
+141,RafaelTolói,Centre-Back,30,€16.00m,25.08.2020,Brazil,Atalanta BC
+142,MusaBarrow,Centre-Forward,22,€18.00m,25.08.2020,The Gambia,Bologna FC 1909
+143,AlfredDuncan,CentralMidfield,27,€15.00m,25.08.2020,Ghana,ACF Fiorentina
+144,NikolaMaksimovic,Centre-Back,28,€18.00m,25.08.2020,Serbia,SSC Napoli
+145,PapuGómez,SecondStriker,32,€15.00m,25.08.2020,Argentina,Atalanta BC
+146,TakehiroTomiyasu,Centre-Back,22,€18.00m,25.08.2020,Japan,Bologna FC 1909
+147,DiegoDemme,DefensiveMidfield,28,€15.00m,25.08.2020,Germany,SSC Napoli
+148,BryanCristante,CentralMidfield,25,€18.00m,25.08.2020,Italy,AS Roma
+149,BeratDjimsiti,Centre-Back,27,€15.00m,25.08.2020,Albania,Atalanta BC
+150,MatíasVecino,CentralMidfield,29,€16.00m,25.08.2020,Uruguay,Inter Milan
+151,Danilo,Right-Back,29,€15.00m,25.08.2020,Brazil,Juventus FC,
+152,GiovanniSimeone,Centre-Forward,25,€15.00m,25.08.2020,Argentina,Cagliari Calcio
+153,HamedJuniorTraorè,AttackingMidfield,20,€14.00m,25.08.2020,Cote d'Ivoire,US Sassuolo
+154,ErickPulgar,DefensiveMidfield,26,€15.00m,25.08.2020,Chile,ACF Fiorentina
+155,NicolásDomínguez,CentralMidfield,22,€14.00m,25.08.2020,Argentina,Bologna FC 1909
+156,GermánPezzella,Centre-Back,29,€15.00m,25.08.2020,Argentina,ACF Fiorentina
+157,MárioRui,Left-Back,29,€14.00m,25.08.2020,Portugal,SSC Napoli
+158,AndreaPetagna,Centre-Forward,25,€15.00m,25.08.2020,Italy,SSC Napoli
+159,AmirRrahmani,Centre-Back,26,€14.00m,25.08.2020,Kosovo,SSC Napoli
+160,JuanCuadrado,Right-Back,32,€15.00m,25.08.2020,Colombia,Juventus FC
+161,MarkoRog,CentralMidfield,25,€13.00m,25.08.2020,Croatia,Cagliari Calcio
+162,ArmandoIzzo,Centre-Back,28,€15.00m,25.08.2020,Italy,Torino FC
+163,SamuCastillejo,RightWinger,25,€13.00m,25.08.2020,Spain,AC Milan
+164,BartlomiejDragowski,Goalkeeper,23,€15.00m,25.08.2020,Poland,ACF Fiorentina
+165,AndreasCornelius,Centre-Forward,27,€12.00m,25.08.2020,Denmark,Parma Calcio 1913
+166,ElseidHysaj,Right-Back,26,€14.00m,25.08.2020,Albania,SSC Napoli
+167,AndreaConti,Right-Back,26,€10.00m,25.08.2020,Italy,AC Milan
+168,RobertoGagliardini,CentralMidfield,26,€14.00m,25.08.2020,Italy,Inter Milan
+169,DavideCalabria,Right-Back,23,€10.00m,25.08.2020,Italy,AC Milan
+170,CristianRomero,Centre-Back,22,€14.00m,25.08.2020,Argentina,Atalanta BC
+171,EdinDzeko,Centre-Forward,34,€10.00m,25.08.2020,Bosnia-Herzegovina,AS Roma
+172,JoãoPedro,AttackingMidfield,28,€14.00m,25.08.2020,Brazil,Cagliari Calcio
+173,EddieSalcedo,Centre-Forward,19,€10.00m,25.08.2020,Italy,Hellas Verona
+174,FrancescoAcerbi,Centre-Back,32,€13.00m,25.08.2020,Italy,SS Lazio
+175,KévinMalcuit,Right-Back,29,€10.00m,25.08.2020,France,SSC Napoli
+176,MatteoPessina,CentralMidfield,23,€12.00m,25.08.2020,Italy,Atalanta BC
+177,MarcoBenassi,CentralMidfield,26,€10.00m,25.08.2020,Italy,Hellas Verona
+178,PolLirola,Right-Back,23,€10.00m,25.08.2020,Spain,ACF Fiorentina
+179,ManoloGabbiadini,Centre-Forward,28,€10.00m,25.08.2020,Italy,UC Sampdoria
+180,NicolasN'Koulou,Centre-Back,30,€10.00m,25.08.2020,Cameroon,Torino FC
+181,MattiaZaccagni,AttackingMidfield,25,€8.50m,25.08.2020,Italy,Hellas Verona
+182,DavideZappacosta,RightMidfield,28,€10.00m,25.08.2020,Italy,Genoa CFC
+183,LucaMarrone,Centre-Back,30,€750Th.,26.03.2020,Italy,FC Crotone

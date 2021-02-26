@@ -1,0 +1,177 @@
+,name,position,age,value,changed,nat,club
+0,DaniEscriche,Centre-Forward,22,€700Th.,03.11.2020,Spain,SD Huesca
+1,LionelMessi,RightWinger,33,€100.00m,08.10.2020,Argentina,FC Barcelona
+2,JanOblak,Goalkeeper,27,€90.00m,08.10.2020,Slovenia,Atlético Madrid
+3,JoãoFélix,SecondStriker,21,€80.00m,08.10.2020,Portugal,Atlético Madrid
+4,AntoineGriezmann,Centre-Forward,29,€80.00m,08.10.2020,France,FC Barcelona
+5,AnsuFati,LeftWinger,18,€80.00m,08.10.2020,Spain,FC Barcelona
+6,Marc-AndréterStegen,Goalkeeper,28,€75.00m,08.10.2020,Germany,FC Barcelona
+7,ThibautCourtois,Goalkeeper,28,€75.00m,08.10.2020,Belgium,Real Madrid
+8,FedericoValverde,CentralMidfield,22,€70.00m,08.10.2020,Uruguay,Real Madrid
+9,FrenkiedeJong,CentralMidfield,23,€70.00m,08.10.2020,Netherlands,FC Barcelona
+10,JoséGiménez,Centre-Back,25,€70.00m,08.10.2020,Uruguay,Atlético Madrid
+11,SaúlÑíguez,CentralMidfield,25,€70.00m,08.10.2020,Spain,Atlético Madrid
+12,RaphaëlVarane,Centre-Back,27,€70.00m,08.10.2020,France,Real Madrid
+13,CasemiroDefensive,Midfield,28,€65.00m,08.10.2020,Brazil,Real Madrid
+14,EdenHazard,LeftWinger,29,€60.00m,08.10.2020,Belgium,Real Madrid
+15,PhilippeCoutinho,AttackingMidfield,28,€60.00m,08.10.2020,Brazil,FC Barcelona
+16,KokeCentral,Midfield,28,€60.00m,08.10.2020,Spain,Atlético Madrid
+17,MiralemPjanic,DefensiveMidfield,30,€50.00m,08.10.2020,Bosnia-Herzegovina,FC Barcelona
+18,ViníciusJúnior,LeftWinger,20,€50.00m,08.10.2020,Brazil,Real Madrid
+19,ToniKroos,CentralMidfield,30,€50.00m,08.10.2020,Germany,Real Madrid
+20,OusmaneDembélé,RightWinger,23,€50.00m,08.10.2020,France,FC Barcelona
+21,ClémentLenglet,Centre-Back,25,€50.00m,08.10.2020,France,FC Barcelona
+22,ÉderMilitão,Centre-Back,22,€40.00m,08.10.2020,Brazil,Real Madrid
+23,JulesKoundé,Centre-Back,22,€40.00m,08.10.2020,France,Sevilla FC
+24,MaxiGómez,Centre-Forward,24,€35.00m,08.10.2020,Uruguay,Valencia CF
+25,TrincãoRight,Winger,20,€30.00m,08.10.2020,Portugal,FC Barcelona
+26,ÁngelCorrea,RightWinger,25,€35.00m,08.10.2020,Argentina,Atlético Madrid
+27,IscoAttacking,Midfield,28,€30.00m,08.10.2020,Spain,Real Madrid
+28,JordiAlba,Left-Back,31,€30.00m,08.10.2020,Spain,FC Barcelona
+29,JoséGayà,Left-Back,25,€30.00m,08.10.2020,Spain,Valencia CF
+30,IñakiWilliams,Centre-Forward,26,€30.00m,08.10.2020,Spain,Athletic Bilbao
+31,PacoAlcácer,Centre-Forward,27,€25.00m,08.10.2020,Spain,Villarreal CF
+32,CarlosSoler,RightMidfield,23,€30.00m,08.10.2020,Spain,Valencia CF
+33,LukaJovic,Centre-Forward,22,€25.00m,08.10.2020,Serbia,Real Madrid
+34,YannickCarrasco,LeftWinger,27,€25.00m,08.10.2020,Belgium,Atlético Madrid
+35,JoséCampaña,CentralMidfield,27,€25.00m,08.10.2020,Spain,Levante UD
+36,IñigoMartínez,Centre-Back,29,€25.00m,08.10.2020,Spain,Athletic Bilbao
+37,SamuChukwueze,RightWinger,21,€25.00m,08.10.2020,Nigeria,Villarreal CF
+38,Djené,Centre-Back,28,€25.00m,08.10.2020,Togo,Getafe CF
+39,KarimBenzema,Centre-Forward,32,€25.00m,08.10.2020,France,Real Madrid
+40,Felipe,Centre-Back,31,€25.00m,08.10.2020,Brazil,Atlético Madrid
+41,SusoRight,Winger,26,€20.00m,08.10.2020,Spain,Sevilla FC
+42,AlexanderIsak,Centre-Forward,21,€22.00m,08.10.2020,Sweden,Real Sociedad
+43,JoanJordán,CentralMidfield,26,€20.00m,08.10.2020,Spain,Sevilla FC
+44,UnaiNúñez,Centre-Back,23,€20.00m,08.10.2020,Spain,Athletic Bilbao
+45,WilliamCarvalho,DefensiveMidfield,28,€20.00m,08.10.2020,Portugal,Real Betis Balompié
+46,StefanSavic,Centre-Back,29,€20.00m,08.10.2020,Montenegro,Atlético Madrid
+47,MarcCucurella,LeftMidfield,22,€20.00m,08.10.2020,Spain,Getafe CF
+48,Kang-inLee,AttackingMidfield,19,€20.00m,08.10.2020,Korea South,Valencia CF
+49,SergiRoberto,Right-Back,28,€20.00m,08.10.2020,Spain,FC Barcelona
+50,SamuelUmtiti,Centre-Back,27,€20.00m,08.10.2020,France,FC Barcelona
+51,LuisSuárez,Centre-Forward,33,€18.00m,08.10.2020,Uruguay,Atlético Madrid
+52,SergiñoDest,Right-Back,20,€20.00m,08.10.2020,United States,FC Barcelona
+53,GeoffreyKondogbia,CentralMidfield,27,€17.50m,08.10.2020,Central African Republic,Atlético Madrid
+54,ThomasLemar,LeftWinger,25,€18.00m,08.10.2020,France,Atlético Madrid
+55,GerardPiqué,Centre-Back,33,€15.00m,08.10.2020,Spain,FC Barcelona
+56,GonçaloGuedes,LeftWinger,23,€17.50m,08.10.2020,Portugal,Valencia CF
+57,RonaldAraújo,Centre-Back,21,€15.00m,08.10.2020,Uruguay,FC Barcelona
+58,PedriAttacking,Midfield,17,€15.00m,08.10.2020,Spain,FC Barcelona
+59,SergioBusquets,DefensiveMidfield,32,€15.00m,08.10.2020,Spain,FC Barcelona
+60,GabrielPaulista,Centre-Back,29,€15.00m,08.10.2020,Brazil,Valencia CF
+61,LorenMorón,Centre-Forward,26,€15.00m,08.10.2020,Spain,Real Betis Balompié
+62,SantiMina,Centre-Forward,24,€15.00m,08.10.2020,Spain,Celta de Vigo
+63,RobinLeNormand,Centre-Back,24,€15.00m,08.10.2020,France,Real Sociedad
+64,DavidSoria,Goalkeeper,27,€15.00m,08.10.2020,Spain,Getafe CF
+65,FernandoPacheco,Goalkeeper,28,€14.00m,08.10.2020,Spain,Deportivo Alavés
+66,ÁlexRemiro,Goalkeeper,25,€15.00m,08.10.2020,Spain,Real Sociedad
+67,SergioRamos,Centre-Back,34,€14.00m,08.10.2020,Spain,Real Madrid
+68,JúniorFirpo,Left-Back,24,€14.00m,08.10.2020,Spain,FC Barcelona
+69,ÓliverTorres,CentralMidfield,26,€14.00m,08.10.2020,Spain,Sevilla FC
+70,FranBeltrán,CentralMidfield,21,€14.00m,08.10.2020,Spain,Celta de Vigo
+71,MarianoDíaz,Centre-Forward,27,€12.00m,08.10.2020,Spain,Real Madrid
+72,ÁlvaroOdriozola,Right-Back,24,€14.00m,08.10.2020,Spain,Real Madrid
+73,AsierIllarramendi,DefensiveMidfield,30,€12.00m,08.10.2020,Spain,Real Sociedad
+74,JuanFoyth,Centre-Back,22,€13.00m,08.10.2020,Argentina,Villarreal CF
+75,ManuTrigueros,CentralMidfield,29,€11.00m,08.10.2020,Spain,Villarreal CF
+76,LuukdeJong,Centre-Forward,30,€12.00m,08.10.2020,Netherlands,Sevilla FC
+77,AdnanJanuzaj,RightWinger,25,€10.00m,08.10.2020,Belgium,Real Sociedad
+78,Marcelo,Left-Back,32,€12.00m,08.10.2020,Brazil,Real Madrid
+79,LucasVázquez,RightWinger,29,€10.00m,08.10.2020,Spain,Real Madrid
+80,AnderBarrenetxea,LeftWinger,18,€11.00m,08.10.2020,Spain,Real Sociedad
+81,AritzElustondo,Centre-Back,26,€10.00m,08.10.2020,Spain,Real Sociedad
+82,BraisMéndez,RightWinger,23,€11.00m,08.10.2020,Spain,Celta de Vigo
+83,Neto,Goalkeeper,31,€10.00m,08.10.2020,Brazil,FC Barcelona
+84,AïssaMandi,Centre-Back,29,€10.00m,08.10.2020,Algeria,Real Betis Balompié
+85,AlfonsoPedraza,Left-Back,24,€10.00m,08.10.2020,Spain,Villarreal CF
+86,DenisSuárez,AttackingMidfield,26,€10.00m,08.10.2020,Spain,Celta de Vigo
+87,ÁlexBerenguer,LeftWinger,25,€10.00m,08.10.2020,Spain,Athletic Bilbao
+88,JasperCillessen,Goalkeeper,31,€10.00m,08.10.2020,Netherlands,Valencia CF
+89,YangelHerrera,DefensiveMidfield,22,€10.00m,08.10.2020,Venezuela,Granada CF
+90,IagoAspas,Centre-Forward,33,€10.00m,08.10.2020,Spain,Celta de Vigo
+91,KenedyLeft,Winger,24,€10.00m,08.10.2020,Brazil,Granada CF
+92,MarcBartra,Centre-Back,29,€10.00m,08.10.2020,Spain,Real Betis Balompié
+93,SimeVrsaljko,Right-Back,28,€10.00m,08.10.2020,Croatia,Atlético Madrid
+94,MarkoDmitrovic,Goalkeeper,28,€10.00m,08.10.2020,Serbia,SD Eibar
+95,JosebaZaldua,Right-Back,28,€10.00m,08.10.2020,Spain,Real Sociedad
+96,ChimyÁvila,Centre-Forward,26,€10.00m,08.10.2020,Argentina,CA Osasuna
+97,RubénGarcía,AttackingMidfield,27,€10.00m,08.10.2020,Spain,CA Osasuna
+98,LuisSuárez,Centre-Forward,22,€10.00m,08.10.2020,Colombia,Granada CF
+99,IvanRakitic,CentralMidfield,32,€10.00m,08.10.2020,Croatia,Sevilla FC
+100,DomingosDuarte,Centre-Back,25,€10.00m,08.10.2020,Portugal,Granada CF
+101,LukaModric,CentralMidfield,35,€10.00m,08.10.2020,Croatia,Real Madrid
+102,DiegoCosta,Centre-Forward,32,€10.00m,08.10.2020,Spain,Atlético Madrid
+103,VitoloLeft,Winger,31,€10.00m,08.10.2020,Spain,Atlético Madrid
+104,Bono,Goalkeeper,29,€10.00m,08.10.2020,Morocco,Sevilla FC
+105,HéctorHerrera,CentralMidfield,30,€10.00m,08.10.2020,Mexico,Atlético Madrid
+106,DarwinMachís,LeftWinger,27,€10.00m,08.10.2020,Venezuela,Granada CF
+107,MunirElHaddadi,RightWinger,25,€10.00m,08.10.2020,Morocco,Sevilla FC
+108,DaniParejo,CentralMidfield,31,€10.00m,08.10.2020,Spain,Villarreal CF
+109,ÁlexMoreno,Left-Back,27,€9.00m,08.10.2020,Spain,Real Betis Balompié
+110,NachoFernández,Centre-Back,30,€10.00m,08.10.2020,Spain,Real Madrid
+111,EnesÜnal,Centre-Forward,23,€9.00m,08.10.2020,Turkey,Getafe CF
+112,TomasVaclík,Goalkeeper,31,€10.00m,08.10.2020,Czech Republic,Sevilla FC
+113,BorjaIglesias,Centre-Forward,27,€8.00m,08.10.2020,Spain,Real Betis Balompié
+114,GuidoRodríguez,DefensiveMidfield,26,€10.00m,08.10.2020,Argentina,Real Betis Balompié
+115,CuchoHernández,Centre-Forward,21,€8.00m,08.10.2020,Colombia,Getafe CF
+116,MouctarDiakhaby,Centre-Back,23,€10.00m,08.10.2020,France,Valencia CF
+117,MartínZubimendi,CentralMidfield,21,€8.00m,08.10.2020,Spain,Real Sociedad
+118,SergioAsenjo,Goalkeeper,31,€9.00m,08.10.2020,Spain,Villarreal CF
+119,AntonioPuertas,RightWinger,28,€7.50m,08.10.2020,Spain,Granada CF
+120,Mathí­asOlivera,Left-Back,23,€8.00m,08.10.2020,Uruguay,Getafe CF
+121,DanielWass,Right-Back,31,€7.50m,08.10.2020,Denmark,Valencia CF
+122,AnteBudimir,Centre-Forward,29,€8.00m,08.10.2020,Croatia,CA Osasuna
+123,ÁlexFernández,AttackingMidfield,28,€7.50m,08.10.2020,Spain,Cádiz CF
+124,FrancisCoquelin,DefensiveMidfield,29,€8.00m,08.10.2020,France,Villarreal CF
+125,UrosRacic,CentralMidfield,22,€7.50m,08.10.2020,Serbia,Valencia CF
+126,UnaiLópez,CentralMidfield,25,€7.50m,08.10.2020,Spain,Athletic Bilbao
+127,NéstorAraújo,Centre-Back,29,€7.00m,08.10.2020,Mexico,Celta de Vigo
+128,MartinBraithwaite,Centre-Forward,29,€7.50m,08.10.2020,Denmark,FC Barcelona
+129,IvoGrbic,Goalkeeper,24,€7.00m,08.10.2020,Croatia,Atlético Madrid
+130,RobertoLópez,AttackingMidfield,20,€7.50m,08.10.2020,Spain,Real Sociedad
+131,RúbenVezo,Centre-Back,26,€6.00m,08.10.2020,Portugal,Levante UD
+132,LucasPérez,Centre-Forward,32,€7.50m,08.10.2020,Spain,Deportivo Alavés
+133,RubénPeña,Right-Back,29,€6.00m,08.10.2020,Spain,Villarreal CF
+134,KarimRekik,Centre-Back,25,€7.50m,08.10.2020,Netherlands,Sevilla FC
+135,ManuVallejo,LeftWinger,23,€6.00m,08.10.2020,Spain,Valencia CF
+136,JosephAidoo,Centre-Back,25,€7.00m,08.10.2020,Ghana,Celta de Vigo
+137,FrancoVázquez,AttackingMidfield,31,€6.00m,08.10.2020,Argentina,Sevilla FC
+138,JeisonMurillo,Centre-Back,28,€7.00m,08.10.2020,Colombia,Celta de Vigo
+139,CarlosNeva,Left-Back,24,€5.00m,08.10.2020,Spain,Granada CF
+140,RubénBlanco,Goalkeeper,25,€7.00m,08.10.2020,Spain,Celta de Vigo
+141,YunusMusah,RightWinger,17,€5.00m,08.10.2020,United States,Valencia CF
+142,NemanjaGudelj,DefensiveMidfield,28,€6.00m,08.10.2020,Serbia,Sevilla FC
+143,Jony,LeftWinger,29,€5.00m,08.10.2020,Spain,CA Osasuna
+144,JaimeMata,Centre-Forward,32,€6.00m,08.10.2020,Spain,Getafe CF
+145,JoelRobles,Goalkeeper,30,€5.00m,08.10.2020,Spain,Real Betis Balompié
+146,RobertoTorres,AttackingMidfield,31,€6.00m,08.10.2020,Spain,CA Osasuna
+147,AlbertoMoreno,Left-Back,28,€5.00m,08.10.2020,Spain,Villarreal CF
+148,LuisMilla,CentralMidfield,26,€5.00m,08.10.2020,Spain,Granada CF
+149,AlejandroPozo,Right-Back,21,€5.00m,08.10.2020,Spain,SD Eibar
+150,JoséLuisMorales,Centre-Forward,33,€5.00m,08.10.2020,Spain,Levante UD
+151,LucasOlaza,Left-Back,26,€5.00m,08.10.2020,Uruguay,Celta de Vigo
+152,Sidnei,Centre-Back,31,€5.00m,08.10.2020,Brazil,Real Betis Balompié
+153,AnderCapa,Right-Back,28,€5.00m,08.10.2020,Spain,Athletic Bilbao
+154,CristianTello,LeftWinger,29,€5.00m,08.10.2020,Spain,Real Betis Balompié
+155,DiegoLainez,LeftWinger,20,€5.00m,08.10.2020,Mexico,Real Betis Balompié
+156,RubénDuarte,Left-Back,25,€5.00m,08.10.2020,Spain,Deportivo Alavés
+157,RaúlGarcía,Centre-Forward,34,€5.00m,08.10.2020,Spain,Athletic Bilbao
+158,VíctorLaguardia,Centre-Back,31,€5.00m,08.10.2020,Spain,Deportivo Alavés
+159,JonathanCalleri,Centre-Forward,27,€5.00m,08.10.2020,Argentina,CA Osasuna
+160,MartínMontoya,Right-Back,29,€5.00m,08.10.2020,Spain,Real Betis Balompié
+161,KévinGameiro,Centre-Forward,33,€5.00m,08.10.2020,France,Valencia CF
+162,SergiGuardiola,Centre-Forward,29,€5.00m,08.10.2020,Spain,Real Valladolid CF
+163,EduExpósito,CentralMidfield,24,€4.00m,08.10.2020,Spain,SD Eibar
+164,Joselu,Centre-Forward,30,€5.00m,08.10.2020,Spain,Deportivo Alavés
+165,EliaquimMangala,Centre-Back,29,€4.00m,08.10.2020,France,Valencia CF
+166,GeroRulli,Goalkeeper,28,€5.00m,08.10.2020,Argentina,Villarreal CF
+167,YoussoufKoné,Left-Back,25,€4.00m,08.10.2020,Mali,Elche CF
+168,PauloOliveira,Centre-Back,28,€5.00m,08.10.2020,Portugal,SD Eibar
+169,RoqueMesa,CentralMidfield,31,€4.00m,08.10.2020,Spain,Real Valladolid CF
+170,DavidSilva,AttackingMidfield,34,€5.00m,08.10.2020,Spain,Real Sociedad
+171,ÁngelRodríguez,Centre-Forward,33,€4.00m,08.10.2020,Spain,Getafe CF
+172,RaúlGuti,CentralMidfield,23,€5.00m,08.10.2020,Spain,Elche CF
+173,FernandoReges,DefensiveMidfield,33,€4.00m,08.10.2020,Brazil,Sevilla FC
+174,FlorianLejeune,Centre-Back,29,€4.50m,08.10.2020,France,Deportivo Alavés
+175,VicenteIborra,CentralMidfield,32,€4.00m,08.10.2020,Spain,Villarreal CF
